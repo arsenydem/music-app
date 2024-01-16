@@ -1,0 +1,26 @@
+header .nav-link {
+    color: gray;
+
+}
+header .nav-link:hover, header .nav-link:focus{
+    color: red;
+}
+header .nav-link:active{
+    color: #ffdb4d;
+}
+header .nav {
+    gap: 10px;
+}
+input[type="search"] {
+    border: none;
+    border-bottom: 1px solid gainsboro;
+}
+header .logo-text {
+    font-size: 24px;
+    font-weight: bold;
+}
+.plus-badge {
+    font-size: 10px;
+    padding: 5px 10px;
+    background: linear-gradient(101.67deg,#48cce0 7.24%,#505add 34.12%,#be40c0 62.93%,#fba82b 92.22%);
+}

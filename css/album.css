@@ -1,0 +1,8 @@
+.left-img:hover {
+
+    z-index: 1;
+    cursor: pointer;
+}
+.button0, .button1, .button2{
+    border: none;
+}
